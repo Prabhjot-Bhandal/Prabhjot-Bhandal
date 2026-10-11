@@ -28,10 +28,7 @@
 <td valign="top" width="62%">
 
 <br>
-
-I started engineering by taking things apart (including, once, my family's TV) and refusing to stop until I had put them back together. Student projects taught me to question a design before building it. Now I lead an electrical team and want to teach others to do the same.
-
-I make mechanical, electrical, and software subsystems work together as one system, keep multidisciplinary teams organized enough to deliver it, and help others learn to build.
+I started engineering by taking things apart (including, once, my family's TV) and refusing to stop until I had put them back together. Student projects taught me to question a design before building it. Now I lead an electrical team and want to teach others to do the same. From dismantling toys to stationery to accidentally breaking my family’s TV (true story!), I was always determined to destroy and rebuild to learn, and I wouldn't stop until I had (mostly) rebuilt the object I had taken apart. When I finally fixed my first pen as a kid, I realized my love for engineering; a passion that turned chaos into creation. Today and into the future, I wield the same curiosity, wonder and determination in every challenge I face, striving to learn, design and solve with purpose and creativity.
 
 </td>
 <td valign="top" width="38%">

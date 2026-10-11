@@ -1,12 +1,12 @@
-#	Prabhjot	Bhandal
-Third-year	Mechatronics	Engineering	&	Society	student	at	McMaster	University.
-I	make	mechanical,	electrical,	and	software	subsystems	work	together	as	one
-system,	keep	multidisciplinary	teams	organized,	and	teach	others	to	build.
-**Looking	for:**	Mechatronics	co-op	starting	[May	/	Sept	2027]
+#	Prabhjot	Bhandal: Break, Build, Adapt
+**Level III Mechatronics Engineering & Society** student at McMaster University.
+Driven by **curiosity** and a passion for **problem-solving**.
+**Looking For:** Mechatronics Engineering Co-Op Opportunities starting **May/Sept. 2027**
+
 ##	What	I	Do
-**Integration.**	[One	sentence	with	a	concrete	example,	e.g.	I	integrate	power,
-sensing,	and	firmware	on	a	drone	team	so	subsystems	pass	bring-up	tests.]
-**Organization.**	[One	sentence	with	a	number,	e.g.	I	run	weekly	syncs	for
+**Integration.** I build electrical, mechanical, and software subsystems that work as one system.
+**Organization.**	I 
+[One	sentence	with	a	number,	e.g.	I	run	weekly	syncs	for
 [N]	people	across	3	subteams	and	track	[N]	dependencies	in	a	shared	backlog.]
 **Teaching.**	[One	sentence	with	a	number,	e.g.	I	co-led	a	coding	camp	for
 150+	students	and	designed	a	cryptography	escape-room	workshop.]
